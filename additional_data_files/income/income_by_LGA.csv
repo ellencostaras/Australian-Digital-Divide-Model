@@ -1,0 +1,547 @@
+LGA_name,Lowest Quartile,Second Quartile,Third Quartile,Highest Quartile
+Albury,24.7,26.9,28.5,19.9
+Armidale Regional,29.4,26.6,24.2,19.7
+Ballina,29.0,28.3,23.5,19.1
+Balranald,27.0,29.8,29.2,13.9
+Bathurst Regional,23.6,25.3,27.2,23.9
+Bayside,23.7,26.2,25.8,24.3
+Bega Valley,32.8,28.6,23.4,15.2
+Bellingen,34.6,27.8,22.3,15.3
+Berrigan,32.5,28.6,24.4,14.5
+Blacktown,21.4,24.7,29.8,24.1
+Bland,28.3,27.3,22.7,21.8
+Blayney,26.6,24.0,26.1,23.3
+Blue Mountains,26.0,23.0,23.2,27.8
+Bogan,27.9,25.9,25.0,21.1
+Bourke,24.5,23.1,27.8,24.6
+Brewarrina,27.8,26.9,28.3,17.1
+Broken Hill,24.2,24.4,26.1,25.3
+Burwood,29.9,28.1,21.2,20.8
+Byron,31.8,30.7,20.3,17.1
+Cabonne,27.1,26.7,23.9,22.3
+Camden,18.5,23.4,29.3,28.9
+Campbelltown,22.9,26.9,30.5,19.7
+Canada Bay,22.5,20.6,22.0,34.9
+Canterbury-Bankstown,27.7,28.5,24.8,19.0
+Carrathool,29.3,27.9,27.7,15.1
+Central Coast,25.5,26.7,25.6,22.2
+Central Darling,32.6,24.1,23.0,20.4
+Cessnock,24.1,27.5,26.4,22.1
+Clarence Valley,32.9,29.4,23.3,14.4
+Cobar,23.9,22.1,22.0,32.0
+Coffs Harbour,29.2,29.7,24.2,16.9
+Coolamon,26.6,26.8,26.1,20.5
+Coonamble,30.1,26.2,23.0,20.6
+Cootamundra-Gundagai Regional,29.0,27.5,25.3,18.2
+Cowra,31.0,29.6,25.4,14.0
+Cumberland,27.6,29.4,25.1,17.9
+Dubbo Regional,23.6,25.5,28.7,22.2
+Dungog,28.2,26.6,23.0,22.1
+Edward River,31.2,26.0,26.9,16.0
+Eurobodalla,33.4,30.3,22.9,13.5
+Fairfield,29.1,29.1,26.6,15.2
+Federation,30.2,27.8,26.6,15.4
+Forbes,27.5,27.7,25.7,19.1
+Georges River,25.9,26.8,23.6,23.7
+Gilgandra,33.5,26.4,23.9,16.2
+Glen Innes Severn,36.5,28.3,22.7,12.5
+Goulburn Mulwaree,24.0,26.5,27.4,22.1
+Greater Hume Shire,27.7,27.5,26.0,18.7
+Griffith,23.3,28.2,31.7,16.8
+Gunnedah,25.3,24.4,24.4,25.8
+Gwydir,39.7,25.1,22.6,12.5
+Hawkesbury,22.0,25.6,27.3,25.1
+Hay,28.9,27.3,27.9,15.9
+Hilltops,29.1,28.4,25.8,16.7
+Hornsby,25.4,20.7,21.3,32.7
+Hunters Hill,22.0,17.5,16.5,44.0
+Inner West,19.4,19.6,23.1,37.9
+Inverell,30.5,29.4,26.9,13.2
+Junee,25.2,26.9,27.8,20.0
+Kempsey,33.6,30.1,22.9,13.4
+Kiama,28.4,23.1,21.0,27.5
+Ku-ring-gai,26.0,18.8,17.1,38.1
+Kyogle,38.8,28.4,22.1,10.7
+Lachlan,32.4,26.3,24.7,16.7
+Lake Macquarie,24.7,24.7,26.1,24.5
+Lane Cove,19.4,17.1,20.6,42.9
+Leeton,26.3,28.3,29.2,16.2
+Lismore,28.4,29.6,26.8,15.2
+Lithgow,26.7,26.6,23.8,22.9
+Liverpool,23.5,26.1,29.1,21.2
+Liverpool Plains,31.1,28.3,23.8,16.9
+Lockhart,27.7,27.8,26.4,18.1
+Maitland,22.1,25.2,27.0,25.6
+Mid-Coast,34.5,29.3,22.3,14.0
+Mid-Western Regional,27.4,26.4,21.6,24.6
+Moree Plains,26.2,25.2,28.3,20.3
+Mosman,21.4,17.1,17.0,44.5
+Murray River,31.2,27.1,24.5,17.3
+Murrumbidgee,31.8,26.5,28.2,13.4
+Muswellbrook,24.1,24.0,21.6,30.4
+Nambucca,37.2,29.2,21.2,12.4
+Narrabri,26.9,25.3,25.7,22.0
+Narrandera,29.7,28.4,26.3,15.7
+Narromine,30.3,26.4,25.2,18.1
+Newcastle,23.2,23.7,25.9,27.2
+North Sydney,18.2,16.1,20.3,45.4
+Northern Beaches,22.1,21.7,21.3,34.9
+Oberon,27.4,25.1,27.6,20.0
+Orange,22.9,24.1,26.9,26.0
+Parkes,28.3,25.7,24.6,21.4
+Parramatta,25.0,23.5,24.5,27.0
+Penrith,20.4,24.5,30.8,24.3
+Port Macquarie-Hastings,31.0,28.0,23.4,17.6
+Port Stephens,28.5,26.7,24.7,20.1
+Queanbeyan-Palerang Regional,16.9,20.4,28.5,34.1
+Randwick,21.1,20.1,22.2,36.6
+Richmond Valley,29.6,32.9,25.9,11.5
+Ryde,25.3,21.5,23.2,30.0
+Shellharbour,23.1,26.6,26.3,24.0
+Shoalhaven,29.3,28.8,24.1,17.9
+Singleton,23.6,23.9,20.3,32.2
+Snowy Monaro Regional,25.0,28.3,26.1,20.7
+Snowy Valleys,26.1,26.8,25.7,21.4
+Strathfield,24.7,26.9,24.1,24.3
+Sutherland Shire,21.3,21.7,24.1,32.9
+Sydney,21.7,21.0,21.8,35.4
+Tamworth Regional,25.9,26.8,28.6,18.7
+Temora,31.2,26.4,24.6,17.8
+Tenterfield,41.8,29.0,19.4,9.9
+The Hills Shire,23.1,20.4,21.8,34.7
+Tweed,30.1,29.3,23.3,17.2
+Upper Hunter Shire,25.8,27.1,24.1,23.0
+Upper Lachlan Shire,28.2,26.1,24.5,21.2
+Uralla,31.1,26.3,25.9,16.7
+Wagga Wagga,22.8,25.4,29.0,22.7
+Walcha,33.1,28.3,23.9,14.6
+Walgett,32.7,26.5,22.2,18.5
+Warren,27.8,24.8,26.4,21.0
+Warrumbungle Shire,35.4,26.9,23.4,14.3
+Waverley,18.6,19.7,20.4,41.3
+Weddin,34.9,27.8,22.4,14.9
+Wentworth,29.8,26.4,24.6,19.3
+Willoughby,24.3,19.1,18.3,38.2
+Wingecarribee,28.4,25.4,22.6,23.7
+Wollondilly,20.7,24.5,26.9,27.9
+Wollongong,25.0,24.4,24.4,26.2
+Woollahra,18.5,17.1,17.6,46.8
+Yass Valley,21.2,21.3,25.4,32.1
+Unincorporated NSW,32.6,26.3,21.1,20.0
+Alpine,29.9,29.6,24.0,16.5
+Ararat,28.6,27.9,25.9,17.6
+Ballarat,25.6,26.7,26.2,21.6
+Banyule,23.8,21.9,23.8,30.5
+Bass Coast,33.0,29.1,21.9,16.1
+Baw Baw,27.3,27.1,25.1,20.5
+Bayside,24.6,19.2,17.8,38.4
+Benalla,31.2,26.9,25.7,16.2
+Boroondara,25.7,19.3,18.5,36.5
+Brimbank,27.7,29.4,26.6,16.3
+Buloke,32.4,26.6,24.1,16.9
+Campaspe,29.3,27.5,26.3,16.9
+Cardinia,22.8,27.6,28.7,20.8
+Casey,23.2,29.0,29.1,18.8
+Central Goldfields,32.1,31.4,25.1,11.3
+Colac-Otway,27.9,28.7,27.5,15.8
+Corangamite,30.0,26.8,26.0,17.2
+Darebin,22.6,24.3,25.0,28.1
+East Gippsland,32.1,30.1,23.4,14.4
+Frankston,23.1,26.8,28.2,21.8
+Gannawarra,33.2,28.0,25.4,13.3
+Glen Eira,23.3,21.9,21.9,32.9
+Glenelg,30.0,25.9,24.7,19.4
+Golden Plains,23.8,25.7,27.4,23.1
+Greater Bendigo,25.8,26.7,27.0,20.4
+Greater Dandenong,28.3,32.8,26.2,12.7
+Greater Geelong,25.5,25.9,25.5,23.1
+Greater Shepparton,27.2,28.3,27.3,17.2
+Hepburn,31.0,27.6,22.5,18.9
+Hindmarsh,29.7,27.5,25.8,17.0
+Hobsons Bay,21.4,22.3,24.8,31.5
+Horsham,26.6,26.0,27.2,20.2
+Hume,25.6,28.8,27.4,18.3
+Indigo,27.6,25.5,26.5,20.5
+Kingston,23.7,23.8,24.8,27.7
+Knox,25.0,25.8,26.5,22.8
+Latrobe,26.4,26.5,24.6,22.5
+Loddon,34.5,28.0,24.1,13.5
+Macedon Ranges,24.2,23.2,23.1,29.5
+Manningham,30.2,23.7,19.8,26.3
+Mansfield,32.0,28.5,23.1,16.4
+Maribyrnong,23.4,23.3,24.9,28.4
+Maroondah,24.2,25.0,25.5,25.4
+Melbourne,29.8,22.8,20.9,26.6
+Melton,22.7,27.3,29.2,20.9
+Mildura,28.4,29.7,26.0,15.9
+Mitchell,23.3,27.1,28.6,20.9
+Moira,30.4,28.4,25.9,15.3
+Monash,30.4,24.0,21.4,24.3
+Moonee Valley,22.2,21.8,23.5,32.5
+Moorabool,23.1,25.7,26.3,24.9
+Moreland,22.2,24.3,25.3,28.1
+Mornington Peninsula,27.9,25.9,22.4,23.7
+Mount Alexander,31.8,26.1,23.3,18.9
+Moyne,27.0,26.9,26.2,19.9
+Murrindindi,30.6,28.2,23.7,17.5
+Nillumbik,23.2,22.7,22.2,31.9
+Northern Grampians,29.2,28.0,27.0,15.9
+Port Phillip,20.0,20.1,22.5,37.4
+Pyrenees,33.9,28.4,24.0,13.7
+Queenscliffe,35.3,21.4,19.0,24.4
+South Gippsland,32.0,27.1,23.6,17.4
+Southern Grampians,29.0,28.2,26.0,16.8
+Stonnington,20.8,18.8,21.5,38.8
+Strathbogie,31.3,28.1,24.9,15.7
+Surf Coast,26.1,23.5,21.9,28.5
+Swan Hill,30.0,30.0,25.1,14.9
+Towong,31.4,26.7,24.6,17.3
+Wangaratta,27.7,27.4,26.9,18.0
+Warrnambool,25.1,27.4,27.8,19.7
+Wellington,29.3,27.0,23.8,19.8
+West Wimmera,33.1,26.0,23.5,17.5
+Whitehorse,30.1,23.2,20.8,25.9
+Whittlesea,23.7,28.3,28.2,19.7
+Wodonga,23.4,26.8,30.7,19.1
+Wyndham,24.0,26.9,27.0,22.0
+Yarra,18.7,18.8,24.5,38.1
+Yarra Ranges,24.1,26.5,26.5,22.9
+Yarriambiack,29.5,26.4,24.1,20.0
+Unincorporated Vic,32.6,39.0,19.9,8.5
+Aurukun,50.5,16.5,16.8,16.2
+Balonne,28.7,27.0,26.0,18.3
+Banana,27.0,23.4,22.2,27.4
+Barcaldine,27.4,25.3,24.7,22.6
+Barcoo,23.3,27.2,23.3,26.1
+Blackall-Tambo,29.0,25.5,27.5,18.0
+Boulia,14.2,22.8,36.0,26.9
+Brisbane,23.1,23.1,24.4,29.3
+Bulloo,19.6,22.7,36.1,21.6
+Bundaberg,30.8,28.2,24.0,17.0
+Burdekin,24.7,27.2,26.3,21.9
+Burke,25.9,29.4,24.7,20.0
+Cairns,23.9,27.9,26.5,21.7
+Carpentaria,24.6,25.4,29.0,21.0
+Cassowary Coast,30.6,31.8,22.8,14.8
+Central Highlands,21.8,21.9,21.0,35.2
+Charters Towers,26.9,24.7,24.8,23.5
+Cherbourg,43.3,32.6,17.4,6.7
+Cloncurry,18.1,21.7,25.5,34.6
+Cook,28.0,28.0,26.5,17.5
+Croydon,25.0,34.3,25.0,15.7
+Diamantina,15.7,28.7,31.5,24.2
+Doomadgee,46.5,22.8,16.7,14.0
+Douglas,27.8,34.6,23.9,13.8
+Etheridge,30.8,26.2,23.1,20.0
+Flinders,24.6,25.4,24.5,25.4
+Fraser Coast,32.7,28.3,23.0,16.0
+Gladstone,25.1,21.7,20.9,32.3
+Gold Coast,26.1,29.0,24.6,20.3
+Goondiwindi,29.7,27.3,27.5,15.5
+Gympie,34.0,29.2,22.1,14.6
+Hinchinbrook,27.0,27.5,25.4,20.2
+Hope Vale,36.0,27.2,19.6,17.2
+Ipswich,22.8,27.0,30.5,19.7
+Isaac,18.1,18.3,19.9,43.7
+Kowanyama,42.9,26.3,17.9,13.0
+Livingstone,24.5,23.0,22.4,30.1
+Lockhart River,45.2,26.6,14.6,13.6
+Lockyer Valley,27.6,29.6,26.7,16.1
+Logan,24.4,28.9,29.7,17.0
+Longreach,22.4,25.4,30.1,22.1
+Mackay,21.1,22.7,24.1,32.1
+McKinlay,20.1,28.7,28.5,22.7
+Mapoon,40.0,31.3,16.5,12.2
+Maranoa,25.9,26.0,26.3,21.8
+Mareeba,31.3,29.2,23.9,15.6
+Moreton Bay,24.5,26.9,27.3,21.4
+Mornington,33.7,26.7,18.8,20.8
+Mount Isa,16.3,19.4,23.9,40.4
+Murweh,24.5,28.6,27.0,19.9
+Napranum,44.9,18.4,19.8,17.0
+Noosa,31.6,28.4,20.2,19.8
+North Burnett,34.7,30.6,21.1,13.7
+Northern Peninsula Area,31.6,31.6,23.0,13.7
+Palm Island,33.3,28.2,23.7,14.8
+Paroo,29.2,26.4,26.4,18.1
+Pormpuraaw,52.3,24.7,13.2,9.8
+Quilpie,23.8,26.1,27.7,22.4
+Redland,23.8,25.4,26.6,24.2
+Richmond,22.3,26.5,25.2,26.0
+Rockhampton,22.8,25.2,26.4,25.7
+Scenic Rim,29.9,27.4,24.1,18.5
+Somerset,28.9,26.6,28.1,16.4
+South Burnett,33.2,28.4,22.9,15.5
+Southern Downs,34.1,30.2,23.4,12.3
+Sunshine Coast,27.7,27.8,23.8,20.7
+Tablelands,32.3,29.1,22.3,16.3
+Toowoomba,26.5,25.7,27.1,20.6
+Torres,19.9,23.8,27.8,28.5
+Torres Strait Island,29.7,34.8,24.7,10.8
+Townsville,21.2,24.5,29.0,25.2
+Weipa,13.3,15.5,21.2,50.1
+Western Downs,30.4,26.3,25.0,18.3
+Whitsunday,24.8,29.7,24.1,21.4
+Winton,22.6,28.9,28.1,20.4
+Woorabinda,32.6,37.8,18.5,11.2
+Wujal Wujal,35.9,34.8,16.3,13.0
+Yarrabah,39.5,31.3,22.0,7.2
+Adelaide,31.0,22.7,20.5,25.8
+Adelaide Hills,24.2,23.3,23.6,28.9
+Adelaide Plains,22.5,29.9,29.8,17.8
+Alexandrina,32.1,28.6,23.9,15.4
+Anangu Pitjantjatjara,34.4,18.9,21.5,25.2
+Barossa,25.4,26.8,28.1,19.7
+Barunga West,35.3,25.8,20.9,18.0
+Berri and Barmera,27.6,30.4,28.2,13.9
+Burnside,25.4,20.7,20.3,33.7
+Campbelltown,25.7,26.3,26.5,21.4
+Ceduna,26.3,26.5,27.2,20.0
+Charles Sturt,22.9,26.1,27.8,23.1
+Clare and Gilbert Valleys,28.3,28.2,24.4,19.1
+Cleve,38.6,27.1,21.6,12.8
+Coober Pedy,28.8,26.2,27.3,17.6
+Copper Coast,31.1,30.1,23.2,15.5
+Elliston,37.1,27.1,20.0,15.8
+Flinders Ranges,29.6,24.9,25.1,20.4
+Franklin Harbour,33.0,26.9,21.2,19.0
+Gawler,24.1,27.6,30.2,18.1
+Goyder,36.7,28.8,21.6,12.9
+Grant,23.9,28.6,26.5,21.0
+Holdfast Bay,24.2,23.4,23.4,29.1
+Kangaroo Island,32.8,31.2,21.8,14.2
+Karoonda East Murray,44.4,25.4,18.7,11.6
+Kimba,43.0,21.9,22.4,12.8
+Kingston,27.7,26.6,26.2,19.6
+Light,23.0,27.7,29.1,20.1
+Lower Eyre Peninsula,24.9,26.9,26.6,21.6
+Loxton Waikerie,28.3,30.6,26.6,14.5
+Maralinga Tjarutja,np,np,np,np
+Marion,23.3,26.3,28.9,21.5
+Mid Murray,34.7,29.2,24.4,11.7
+Mitcham,24.5,22.6,23.1,29.7
+Mount Barker,24.4,26.7,27.4,21.5
+Mount Gambier,24.4,29.2,29.8,16.6
+Mount Remarkable,34.2,24.4,24.4,17.0
+Murray Bridge,29.3,31.4,27.2,12.1
+Naracoorte and Lucindale,25.6,31.2,26.3,16.8
+Northern Areas,29.9,27.2,23.7,19.1
+Norwood Payneham St Peters,24.4,23.7,23.0,28.8
+Onkaparinga,24.4,28.6,29.8,17.2
+Orroroo/Carrieton,36.6,26.5,20.2,16.6
+Peterborough,37.9,32.0,19.3,10.8
+Playford,25.1,30.9,31.1,12.9
+Port Adelaide Enfield,24.2,28.0,28.8,19.0
+Port Augusta,24.7,25.8,26.5,23.1
+Port Lincoln,25.1,30.3,26.3,18.4
+Port Pirie City and Dists,27.2,26.7,26.7,19.4
+Prospect,21.7,23.6,25.9,28.9
+Renmark Paringa,28.1,31.9,26.7,13.2
+Robe,30.4,26.9,23.5,19.2
+Roxby Downs,11.8,13.6,18.0,56.7
+Salisbury,25.1,30.7,30.7,13.6
+Southern Mallee,32.8,24.5,28.0,14.7
+Streaky Bay,31.9,30.2,22.1,15.8
+Tatiara,26.7,30.2,28.3,14.8
+Tea Tree Gully,23.2,26.6,29.5,20.7
+The Coorong,32.9,29.7,24.2,13.2
+Tumby Bay,36.0,24.8,23.0,16.2
+Unley,23.2,21.7,21.5,33.7
+Victor Harbor,37.1,29.4,19.8,13.7
+Wakefield,31.2,29.5,26.0,13.4
+Walkerville,22.9,20.8,20.6,35.8
+Wattle Range,27.4,28.7,25.8,18.1
+West Torrens,23.6,27.2,27.9,21.3
+Whyalla,23.4,24.1,24.2,28.3
+Wudinna,35.0,25.8,22.1,17.0
+Yankalilla,35.3,29.1,21.9,13.6
+Yorke Peninsula,34.2,27.8,21.8,16.2
+Unincorporated SA,29.3,28.6,22.9,19.2
+Albany,28.8,27.0,24.4,19.8
+Armadale,22.2,24.2,27.8,25.8
+Ashburton,15.9,12.9,15.6,55.5
+Augusta-Margaret River,28.4,29.3,22.7,19.6
+Bassendean,22.5,21.8,26.5,29.2
+Bayswater,22.8,23.4,25.7,28.0
+Belmont,21.6,25.1,27.1,26.1
+Beverley,32.1,25.5,21.5,20.8
+Boddington,24.9,17.8,18.8,38.6
+Boyup Brook,32.0,27.5,21.2,19.3
+Bridgetown-Greenbushes,31.0,25.0,20.5,23.5
+Brookton,32.7,25.1,22.0,20.2
+Broome,18.8,21.7,28.3,31.1
+Broomehill-Tambellup,31.2,25.1,24.5,19.2
+Bruce Rock,39.3,19.7,21.0,20.0
+Bunbury,26.6,25.1,23.3,25.1
+Busselton,27.3,27.2,22.3,23.1
+Cambridge,22.0,17.2,17.0,43.7
+Canning,27.7,25.2,23.1,23.9
+Capel,23.6,23.0,23.7,29.8
+Carnamah,32.1,24.1,26.6,17.2
+Carnarvon,23.0,28.9,25.4,22.7
+Chapman Valley,27.7,21.1,22.4,28.8
+Chittering,24.5,23.5,21.8,30.2
+Christmas Island,np,np,np,np
+Claremont,26.7,18.4,15.8,39.1
+Cockburn,21.1,23.1,25.8,30.0
+Cocos Island,np,np,np,np
+Collie,28.7,22.5,19.3,29.5
+Coolgardie,19.9,19.0,21.7,39.4
+Coorow,32.0,23.5,18.7,25.8
+Corrigin,30.3,23.7,23.2,22.8
+Cottesloe,21.4,16.8,15.4,46.4
+Cranbrook,35.2,24.5,23.7,16.5
+Cuballing,29.9,27.5,23.8,18.9
+Cue,38.0,17.0,31.0,14.0
+Cunderdin,28.6,26.5,22.8,22.1
+Dalwallinu,25.3,22.2,25.8,26.7
+Dandaragan,29.5,28.0,19.7,22.8
+Dardanup,24.3,23.5,23.9,28.2
+Denmark,36.1,27.7,18.4,17.8
+Derby-West Kimberley,29.5,21.1,24.2,25.2
+Donnybrook-Balingup,30.2,25.2,19.9,24.6
+Dowerin,36.1,23.8,19.9,20.1
+Dumbleyung,35.0,27.6,20.0,17.3
+Dundas,29.1,25.4,24.7,20.7
+East Fremantle,22.8,18.4,19.0,39.8
+East Pilbara,15.8,14.6,20.9,48.7
+Esperance,28.4,24.7,23.0,24.0
+Exmouth,19.8,28.1,23.4,28.6
+Fremantle,24.0,21.3,21.2,33.6
+Gingin,28.8,27.7,21.3,22.3
+Gnowangerup,31.4,21.1,24.0,23.5
+Goomalling,34.5,25.4,21.2,18.9
+Gosnells,25.0,26.5,26.8,21.6
+Greater Geraldton,24.2,24.4,23.4,28.1
+Halls Creek,33.1,22.3,24.1,20.6
+Harvey,24.2,23.2,23.0,29.6
+Irwin,30.6,24.2,19.8,25.4
+Jerramungup,39.4,24.6,22.4,13.5
+Joondalup,23.7,22.1,22.9,31.3
+Kalamunda,23.5,22.9,24.8,28.8
+Kalgoorlie/Boulder,16.3,19.4,23.4,40.8
+Karratha,14.8,16.1,21.0,48.1
+Katanning,26.8,29.9,25.4,17.9
+Kellerberrin,36.0,23.3,25.8,14.9
+Kent,34.3,26.3,25.3,14.1
+Kojonup,28.0,27.3,23.4,21.3
+Kondinin,38.9,22.9,19.6,18.5
+Koorda,41.2,18.9,17.2,22.7
+Kulin,31.3,22.7,25.0,20.9
+Kwinana,21.8,24.2,28.6,25.5
+Lake Grace,32.9,22.8,21.3,23.1
+Laverton,25.2,20.5,23.8,30.5
+Leonora,18.8,20.4,24.0,36.8
+Mandurah,28.6,23.1,20.1,28.2
+Manjimup,30.9,29.1,23.5,16.6
+Meekatharra,24.9,21.4,30.9,22.9
+Melville,26.5,20.4,19.7,33.4
+Menzies,36.1,19.7,26.2,18.0
+Merredin,28.1,23.3,24.2,24.4
+Mingenew,30.6,19.2,21.9,28.3
+Moora,26.2,25.2,26.3,22.3
+Morawa,28.8,25.6,25.1,20.5
+Mosman Park,24.6,18.8,17.8,38.8
+Mount Magnet,32.3,24.0,23.5,20.3
+Mount Marshall,36.4,19.7,24.5,19.4
+Mukinbudin,36.4,21.6,19.0,23.0
+Mundaring,24.8,22.4,22.7,30.1
+Murchison,np,np,np,np
+Murray,28.1,22.6,18.8,30.5
+Nannup,35.2,26.9,20.6,17.3
+Narembeen,34.9,25.2,19.3,20.6
+Narrogin,26.1,27.5,25.6,20.9
+Nedlands,25.3,16.1,14.9,43.7
+Ngaanyatjarraku,23.4,19.1,27.7,29.8
+Northam,26.7,23.1,25.6,24.6
+Northampton,33.5,26.3,18.8,21.4
+Nungarin,38.9,21.2,18.6,21.2
+Peppermint Grove,19.3,15.4,14.2,51.2
+Perenjori,36.7,22.5,25.8,15.0
+Perth,26.4,21.0,20.4,32.2
+Pingelly,31.5,28.3,20.4,19.8
+Plantagenet,32.6,27.8,23.2,16.4
+Port Hedland,14.4,14.0,20.6,50.9
+Quairading,38.2,21.2,20.1,20.5
+Ravensthorpe,31.3,20.2,20.9,27.5
+Rockingham,22.7,23.3,24.2,29.8
+Sandstone,16.7,22.9,25.0,35.4
+Serpentine-Jarrahdale,21.0,22.7,26.0,30.3
+Shark Bay,26.4,26.6,24.3,22.6
+South Perth,24.5,20.2,20.5,34.8
+Stirling,22.9,22.9,24.1,30.1
+Subiaco,23.7,17.4,18.3,40.6
+Swan,21.6,25.0,27.9,25.5
+Tammin,39.4,26.9,14.8,19.0
+Three Springs,27.2,28.2,22.0,22.6
+Toodyay,29.0,21.9,22.4,26.7
+Trayning,31.7,24.0,23.0,21.3
+Upper Gascoyne,np,np,np,np
+Victoria Park,22.8,22.5,24.2,30.5
+Victoria Plains,34.6,22.8,22.8,19.8
+Vincent,19.6,20.2,22.7,37.5
+Wagin,31.2,24.9,23.5,20.3
+Wandering,27.6,21.2,21.8,29.4
+Wanneroo,22.2,25.5,26.5,25.8
+Waroona,28.2,22.6,18.1,31.1
+West Arthur,28.0,24.7,24.7,22.5
+Westonia,30.2,25.2,23.0,21.6
+Wickepin,35.2,23.9,19.8,21.1
+Williams,23.8,24.0,26.3,26.0
+Wiluna,32.8,28.9,22.7,15.6
+Wongan-Ballidu,32.4,21.9,23.3,22.4
+Woodanilling,32.1,19.4,23.6,24.9
+Wyalkatchem,33.3,23.0,20.9,22.7
+Wyndham-East Kimberley,19.6,22.6,29.5,28.3
+Yalgoo,36.5,30.2,19.8,13.5
+Yilgarn,29.8,20.8,21.5,27.9
+York,32.3,22.7,21.9,23.1
+Break O'Day,40.6,29.8,18.0,11.6
+Brighton,22.8,30.6,31.8,14.7
+Burnie,25.5,27.6,27.3,19.7
+Central Coast,27.6,27.5,26.1,18.8
+Central Highlands,32.7,29.8,24.0,13.6
+Circular Head,25.9,30.7,27.2,16.2
+Clarence,24.1,26.6,27.6,21.6
+Derwent Valley,25.6,30.5,30.5,13.4
+Devonport,27.4,29.9,26.9,15.8
+Dorset,32.1,31.5,23.8,12.6
+Flinders,30.1,26.4,24.7,18.8
+George Town,30.9,28.0,24.2,16.9
+Glamorgan/Spring Bay,33.1,32.5,22.2,12.2
+Glenorchy,25.3,31.2,30.1,13.5
+Hobart,27.6,24.5,22.2,25.7
+Huon Valley,31.8,28.1,26.0,14.1
+Kentish,29.9,31.1,25.1,13.9
+King Island,23.5,31.2,27.7,17.6
+Kingborough,26.5,25.4,26.1,21.9
+Latrobe,26.5,28.9,26.3,18.3
+Launceston,25.8,29.3,26.8,18.1
+Meander Valley,26.9,28.6,27.5,17.0
+Northern Midlands,25.8,30.0,28.5,15.7
+Sorell,24.8,29.7,30.5,15.1
+Southern Midlands,27.0,30.2,29.0,13.8
+Tasman,39.2,29.9,19.6,11.3
+Waratah/Wynyard,27.1,26.9,25.8,20.1
+West Coast,26.7,25.9,22.5,24.8
+West Tamar,26.8,27.1,25.5,20.6
+Alice Springs,18.5,20.6,30.5,30.4
+Barkly,25.6,21.2,28.5,24.7
+Belyuen,np,np,np,np
+Central Desert,39.5,23.5,20.3,16.7
+Coomalie,28.5,28.6,22.1,20.8
+Darwin,18.2,22.3,28.6,30.8
+Darwin Waterfront Precinct,11.0,10.6,28.2,50.2
+East Arnhem,45.9,23.9,15.3,14.9
+Katherine,20.0,22.2,31.3,26.5
+Litchfield,18.3,20.5,29.9,31.2
+MacDonnell,42.9,21.1,21.8,14.1
+Palmerston,16.1,20.0,33.4,30.6
+Roper Gulf,37.3,26.7,18.6,17.4
+Tiwi Islands,37.2,32.2,17.7,12.9
+Victoria Daly,35.5,28.6,22.3,13.5
+Wagait,22.8,16.0,31.2,30.0
+West Arnhem,35.8,19.5,20.5,24.2
+West Daly,34.0,30.8,17.9,17.2
+Unincorporated NT,19.6,22.7,24.0,33.7
+Unincorporated ACT,17.4,20.4,27.1,35.1

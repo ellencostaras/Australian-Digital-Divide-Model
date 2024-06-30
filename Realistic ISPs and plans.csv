@@ -1,0 +1,154 @@
+﻿Brand,Sevice,Speed/GB,Locations,Price,supplier
+Telstra,mobile,300,remote,95,Telstra
+Telstra,mobile,180,remote,72,Telstra
+Telstra,mobile,62,remote,62,Telstra
+Telstra,wifi,700,urban,170,NBN Co
+Telstra,wifi,250,urban,135,NBN Co
+Telstra,wifi,100,urban,110,NBN Co
+Telstra,wifi,50,urban,100,NBN Co
+Telstra,wifi,25,urban,85,NBN Co
+Telstra,wifi,50,regional,100,NBN Co
+Telstra,wifi,25,regional,85,NBN Co
+Telstra,wifi,50,remote,125,Starlink
+TPG,mobile,60,regional,40,TPG
+TPG,mobile,45,regional,30,TPG
+TPG,mobile,25,regional,25,TPG
+TPG,mobile,12,regional,20,TPG
+TPG,wifi,670,urban,105,NBN Co
+TPG,wifi,230,urban,95,NBN Co
+TPG,wifi,100,urban,90,NBN Co
+TPG,wifi,50,urban,80,NBN Co
+TPG,wifi,25,urban,75,NBN Co
+TPG,wifi,12,urban,70,NBN Co
+TPG,wifi,50,regional,69,NBN Co
+TPG,wifi,25,regional,59,NBN Co
+Optus,mobile,360,regional,89,Optus
+Optus,mobile,220,regional,69,Optus
+Optus,mobile,100,regional,59,Optus
+Optus,wifi,600,urban,129,NBN Co
+Optus,wifi,240,urban,99,NBN Co
+Optus,wifi,100,urban,89,NBN Co
+Optus,wifi,50,urban,85,NBN Co
+Optus,wifi,25,urban,70,NBN Co
+Vodafone,mobile,720,regional,70,TPG
+Vodafone,mobile,360,regional,60,TPG
+Vodafone,mobile,100,regional,50,TPG
+Vodafone,wifi,450,urban,110,NBN Co
+Vodafone,wifi,210,urban,100,NBN Co
+Vodafone,wifi,90,urban,90,NBN Co
+Vodafone,wifi,50,urban,80,NBN Co
+Vodafone,wifi,25,urban,75,NBN Co
+Dodo,mobile,45,regional,35,Optus
+Dodo,mobile,25,regional,25,Optus
+Dodo,mobile,15,regional,20,Optus
+Dodo,mobile,2,regional,10,Optus
+Dodo,wifi,245,urban,110,NBN Co
+Dodo,wifi,100,urban,85,NBN Co
+Dodo,wifi,50,urban,80,NBN Co
+Dodo,wifi,25,urban,65,NBN Co
+Dodo,wifi,15,urban,55,NBN Co
+Aussie Broadband,mobile,220,regional,40,Optus
+Aussie Broadband,mobile,120,regional,40,Optus
+Aussie Broadband,mobile,100,regional,30,Optus
+Aussie Broadband,mobile,40,regional,25,Optus
+Aussie Broadband,mobile,15,regional,20,Optus
+Aussie Broadband,wifi,670,urban,105,NBN Co
+Aussie Broadband,wifi,230,urban,95,NBN Co
+Aussie Broadband,wifi,100,urban,90,NBN Co
+Aussie Broadband,wifi,50,urban,80,NBN Co
+Aussie Broadband,wifi,25,urban,75,NBN Co
+Aussie Broadband,wifi,12,urban,70,NBN Co
+Aussie Broadband,wifi,14.4,regional,70,NBN Co
+Aussie Broadband,wifi,9.3,regional,60,NBN Co
+iiNet,mobile,55,regional,40,TPG
+iiNet,mobile,40,regional,30,TPG
+iiNet,mobile,16,regional,25,TPG
+iiNet,mobile,8,regional,20,TPG
+iiNet,wifi,671,urban,110,NBN Co
+iiNet,wifi,232,urban,100,NBN Co
+iiNet,wifi,100,urban,90,NBN Co
+iiNet,wifi,50,urban,80,NBN Co
+iiNet,wifi,25,urban,75,NBN Co
+iiNet,wifi,12,urban,70,NBN Co
+iiNet,wifi,25,regional,80,NBN Co
+iiNet,wifi,12,regional,70,NBN Co
+SkyMesh,wifi,100,urban,85,NBN Co
+SkyMesh,wifi,50,urban,75,NBN Co
+SkyMesh,wifi,25,urban,69,NBN Co
+SkyMesh,wifi,50,regional,85,NBN Co
+SkyMesh,wifi,100,remote,100,NBN Co
+SkyMesh,wifi,50,remote,80,NBN Co
+SkyMesh,wifi,25,remote,60,NBN Co
+Active8me,wifi,100,urban,95,NBN Co
+Active8me,wifi,50,urban,70,NBN Co
+Active8me,wifi,50,regional,69,NBN Co
+Active8me,wifi,25,regional,59,NBN Co
+Active8me,wifi,100,remote,99,NBN Co
+Active8me,wifi,50,remote,74,NBN Co
+Tangerine,mobile,12,remote,22,Telstra
+Tangerine,mobile,25,remote,27,Telstra
+Tangerine,mobile,32,remote,33,Telstra
+Tangerine,mobile,50,remote,38,Telstra
+Tangerine,mobile,80,remote,45,Telstra
+Tangerine,mobile,150,remote,58,Telstra
+Tangerine,wifi,650,urban,125,NBN Co
+Tangerine,wifi,245,urban,105,NBN Co
+Tangerine,wifi,100,urban,95,NBN Co
+Tangerine,wifi,50,urban,80,NBN Co
+Tangerine,wifi,25,urban,65,NBN Co
+Tangerine,wifi,75,regional,79,NBN Co
+Kogan,mobile,10,regional,15,TPG
+Kogan,mobile,40,regional,25,TPG
+Kogan,mobile,80,regional,40,TPG
+Kogan,wifi,250,urban,110,NBN Co
+Kogan,wifi,100,urban,100,NBN Co
+Kogan,wifi,90,urban,80,NBN Co
+Kogan,wifi,50,urban,70,NBN Co
+Kogan,wifi,25,urban,64,NBN Co
+Exetel,mobile,150,remote,60,Telstra
+Exetel,mobile,100,remote,48,Telstra
+Exetel,mobile,45,remote,36,Telstra
+Exetel,mobile,30,remote,30,Telstra
+Exetel,mobile,20,remote,24,Telstra
+Exetel,mobile,7,remote,18,Telstra
+Exetel,wifi,250,urban,99,NBN Co
+Exetel,wifi,100,urban,87,NBN Co
+Exetel,wifi,50,urban,80,NBN Co
+Exetel,wifi,25,urban,60,NBN Co
+Exetel,wifi,75,regional,75,NBN Co
+Exetel,wifi,25,regional,65,NBN Co
+Exetel,wifi,12,regional,60,NBN Co
+Bendigo Telco,mobile,220,regional,65,Optus
+Bendigo Telco,mobile,40,regional,40,Optus
+Bendigo Telco,mobile,8,regional,25,Optus
+Bendigo Telco,wifi,25,urban,75,NBN Co
+Bendigo Telco,wifi,50,urban,85,NBN Co
+Bendigo Telco,wifi,100,urban,95,NBN Co
+Bendigo Telco,wifi,210,urban,125,NBN Co
+Bendigo Telco,wifi,650,urban,140,NBN Co
+Bendigo Telco,wifi,18,regional,75,NBN Co
+Bendigo Telco,wifi,45,regional,85,NBN Co
+Superloop,mobile,150,remote,60,Telstra
+Superloop,mobile,100,remote,50,Telstra
+Superloop,mobile,55,remote,40,Telstra
+Superloop,mobile,30,remote,30,Telstra
+Superloop,mobile,10,remote,20,Telstra
+Superloop,wifi,750,urban,100,NBN Co
+Superloop,wifi,230,urban,90,NBN Co
+Superloop,wifi,100,urban,85,NBN Co
+Superloop,wifi,50,urban,80,NBN Co
+Superloop,wifi,25,urban,65,NBN Co
+ipstar,wifi,250,urban,125,NBN Co
+ipstar,wifi,100,urban,105,NBN Co
+ipstar,wifi,50,urban,95,NBN Co
+ipstar,wifi,25,urban,70,NBN Co
+ipstar,wifi,12,urban,65,NBN Co
+ipstar,wifi,60,regional,95,NBN Co
+ipstar,wifi,100,remote,100,NBN Co
+ipstar,wifi,50,remote,65,NBN Co
+ipstar,wifi,25,remote,50,NBN Co
+Moose Mobile,mobile,200,regional,55,Optus
+Moose Mobile,mobile,100,regional,37,Optus
+Moose Mobile,mobile,40,regional,30,Optus
+Moose Mobile,mobile,25,regional,25,Optus
+Moose Mobile,mobile,15,regional,20,Optus

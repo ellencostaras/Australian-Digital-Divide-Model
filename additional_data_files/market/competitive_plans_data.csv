@@ -1,0 +1,241 @@
+Brand,Sevice,Speed/GB,Locations,Price,supplier
+Telstra,mobile,120,remote,50,NBN Co
+Telstra,mobile,62,remote,35,NBN Co
+Telstra,mobile,20,remote,20,NBN Co
+Telstra,wifi,999,urban,100,NBN Co
+Telstra,wifi,250,urban,90,NBN Co
+Telstra,wifi,100,urban,80,NBN Co
+Telstra,wifi,50,urban,70,NBN Co
+Telstra,wifi,25,urban,60,NBN Co
+Telstra,wifi,12,urban,50,NBN Co
+Telstra,wifi,100,regional,80,NBN Co
+Telstra,wifi,50,regional,70,NBN Co
+Telstra,wifi,25,regional,60,NBN Co
+Telstra,wifi,12,regional,50,NBN Co
+Telstra,wifi,50,remote,70,NBN Co
+Telstra,wifi,25,remote,60,NBN Co
+Telstra,wifi,12,remote,50,NBN Co
+TPG,mobile,120,remote,50,NBN Co
+TPG,mobile,62,remote,35,NBN Co
+TPG,mobile,20,remote,20,NBN Co
+TPG,wifi,999,urban,100,NBN Co
+TPG,wifi,250,urban,90,NBN Co
+TPG,wifi,100,urban,80,NBN Co
+TPG,wifi,50,urban,70,NBN Co
+TPG,wifi,25,urban,60,NBN Co
+TPG,wifi,12,urban,50,NBN Co
+TPG,wifi,100,regional,80,NBN Co
+TPG,wifi,50,regional,70,NBN Co
+TPG,wifi,25,regional,60,NBN Co
+TPG,wifi,12,regional,50,NBN Co
+TPG,wifi,50,remote,70,NBN Co
+TPG,wifi,25,remote,60,NBN Co
+TPG,wifi,12,remote,50,NBN Co
+Optus,mobile,120,remote,50,NBN Co
+Optus,mobile,62,remote,35,NBN Co
+Optus,mobile,20,remote,20,NBN Co
+Optus,wifi,999,urban,100,NBN Co
+Optus,wifi,250,urban,90,NBN Co
+Optus,wifi,100,urban,80,NBN Co
+Optus,wifi,50,urban,70,NBN Co
+Optus,wifi,25,urban,60,NBN Co
+Optus,wifi,12,urban,50,NBN Co
+Optus,wifi,100,regional,80,NBN Co
+Optus,wifi,50,regional,70,NBN Co
+Optus,wifi,25,regional,60,NBN Co
+Optus,wifi,12,regional,50,NBN Co
+Optus,wifi,50,remote,70,NBN Co
+Optus,wifi,25,remote,60,NBN Co
+Optus,wifi,12,remote,50,NBN Co
+Vodafone,mobile,120,remote,50,NBN Co
+Vodafone,mobile,62,remote,35,NBN Co
+Vodafone,mobile,20,remote,20,NBN Co
+Vodafone,wifi,999,urban,100,NBN Co
+Vodafone,wifi,250,urban,90,NBN Co
+Vodafone,wifi,100,urban,80,NBN Co
+Vodafone,wifi,50,urban,70,NBN Co
+Vodafone,wifi,25,urban,60,NBN Co
+Vodafone,wifi,12,urban,50,NBN Co
+Vodafone,wifi,100,regional,80,NBN Co
+Vodafone,wifi,50,regional,70,NBN Co
+Vodafone,wifi,25,regional,60,NBN Co
+Vodafone,wifi,12,regional,50,NBN Co
+Vodafone,wifi,50,remote,70,NBN Co
+Vodafone,wifi,25,remote,60,NBN Co
+Vodafone,wifi,12,remote,50,NBN Co
+Aussie Broadband,mobile,120,remote,50,NBN Co
+Aussie Broadband,mobile,62,remote,35,NBN Co
+Aussie Broadband,mobile,20,remote,20,NBN Co
+Aussie Broadband,wifi,999,urban,100,NBN Co
+Aussie Broadband,wifi,250,urban,90,NBN Co
+Aussie Broadband,wifi,100,urban,80,NBN Co
+Aussie Broadband,wifi,50,urban,70,NBN Co
+Aussie Broadband,wifi,25,urban,60,NBN Co
+Aussie Broadband,wifi,12,urban,50,NBN Co
+Aussie Broadband,wifi,100,regional,80,NBN Co
+Aussie Broadband,wifi,50,regional,70,NBN Co
+Aussie Broadband,wifi,25,regional,60,NBN Co
+Aussie Broadband,wifi,12,regional,50,NBN Co
+Aussie Broadband,wifi,50,remote,70,NBN Co
+Aussie Broadband,wifi,25,remote,60,NBN Co
+Aussie Broadband,wifi,12,remote,50,NBN Co
+iiNet,mobile,120,remote,50,NBN Co
+iiNet,mobile,62,remote,35,NBN Co
+iiNet,mobile,20,remote,20,NBN Co
+iiNet,wifi,999,urban,100,NBN Co
+iiNet,wifi,250,urban,90,NBN Co
+iiNet,wifi,100,urban,80,NBN Co
+iiNet,wifi,50,urban,70,NBN Co
+iiNet,wifi,25,urban,60,NBN Co
+iiNet,wifi,12,urban,50,NBN Co
+iiNet,wifi,100,regional,80,NBN Co
+iiNet,wifi,50,regional,70,NBN Co
+iiNet,wifi,25,regional,60,NBN Co
+iiNet,wifi,12,regional,50,NBN Co
+iiNet,wifi,50,remote,70,NBN Co
+iiNet,wifi,25,remote,60,NBN Co
+iiNet,wifi,12,remote,50,NBN Co
+SkyMesh,mobile,120,remote,50,NBN Co
+SkyMesh,mobile,62,remote,35,NBN Co
+SkyMesh,mobile,20,remote,20,NBN Co
+SkyMesh,wifi,999,urban,100,NBN Co
+SkyMesh,wifi,250,urban,90,NBN Co
+SkyMesh,wifi,100,urban,80,NBN Co
+SkyMesh,wifi,50,urban,70,NBN Co
+SkyMesh,wifi,25,urban,60,NBN Co
+SkyMesh,wifi,12,urban,50,NBN Co
+SkyMesh,wifi,100,regional,80,NBN Co
+SkyMesh,wifi,50,regional,70,NBN Co
+SkyMesh,wifi,25,regional,60,NBN Co
+SkyMesh,wifi,12,regional,50,NBN Co
+SkyMesh,wifi,50,remote,70,NBN Co
+SkyMesh,wifi,25,remote,60,NBN Co
+SkyMesh,wifi,12,remote,50,NBN Co
+Active8Me,mobile,120,remote,50,NBN Co
+Active8Me,mobile,62,remote,35,NBN Co
+Active8Me,mobile,20,remote,20,NBN Co
+Active8Me,wifi,999,urban,100,NBN Co
+Active8Me,wifi,250,urban,90,NBN Co
+Active8Me,wifi,100,urban,80,NBN Co
+Active8Me,wifi,50,urban,70,NBN Co
+Active8Me,wifi,25,urban,60,NBN Co
+Active8Me,wifi,12,urban,50,NBN Co
+Active8Me,wifi,100,regional,80,NBN Co
+Active8Me,wifi,50,regional,70,NBN Co
+Active8Me,wifi,25,regional,60,NBN Co
+Active8Me,wifi,12,regional,50,NBN Co
+Active8Me,wifi,50,remote,70,NBN Co
+Active8Me,wifi,25,remote,60,NBN Co
+Active8Me,wifi,12,remote,50,NBN Co
+Tangerine,mobile,120,remote,50,NBN Co
+Tangerine,mobile,62,remote,35,NBN Co
+Tangerine,mobile,20,remote,20,NBN Co
+Tangerine,wifi,999,urban,100,NBN Co
+Tangerine,wifi,250,urban,90,NBN Co
+Tangerine,wifi,100,urban,80,NBN Co
+Tangerine,wifi,50,urban,70,NBN Co
+Tangerine,wifi,25,urban,60,NBN Co
+Tangerine,wifi,12,urban,50,NBN Co
+Tangerine,wifi,100,regional,80,NBN Co
+Tangerine,wifi,50,regional,70,NBN Co
+Tangerine,wifi,25,regional,60,NBN Co
+Tangerine,wifi,12,regional,50,NBN Co
+Tangerine,wifi,50,remote,70,NBN Co
+Tangerine,wifi,25,remote,60,NBN Co
+Tangerine,wifi,12,remote,50,NBN Co
+Kogan,mobile,120,remote,50,NBN Co
+Kogan,mobile,62,remote,35,NBN Co
+Kogan,mobile,20,remote,20,NBN Co
+Kogan,wifi,999,urban,100,NBN Co
+Kogan,wifi,250,urban,90,NBN Co
+Kogan,wifi,100,urban,80,NBN Co
+Kogan,wifi,50,urban,70,NBN Co
+Kogan,wifi,25,urban,60,NBN Co
+Kogan,wifi,12,urban,50,NBN Co
+Kogan,wifi,100,regional,80,NBN Co
+Kogan,wifi,50,regional,70,NBN Co
+Kogan,wifi,25,regional,60,NBN Co
+Kogan,wifi,12,regional,50,NBN Co
+Kogan,wifi,50,remote,70,NBN Co
+Kogan,wifi,25,remote,60,NBN Co
+Kogan,wifi,12,remote,50,NBN Co
+Exetel,mobile,120,remote,50,NBN Co
+Exetel,mobile,62,remote,35,NBN Co
+Exetel,mobile,20,remote,20,NBN Co
+Exetel,wifi,999,urban,100,NBN Co
+Exetel,wifi,250,urban,90,NBN Co
+Exetel,wifi,100,urban,80,NBN Co
+Exetel,wifi,50,urban,70,NBN Co
+Exetel,wifi,25,urban,60,NBN Co
+Exetel,wifi,12,urban,50,NBN Co
+Exetel,wifi,100,regional,80,NBN Co
+Exetel,wifi,50,regional,70,NBN Co
+Exetel,wifi,25,regional,60,NBN Co
+Exetel,wifi,12,regional,50,NBN Co
+Exetel,wifi,50,remote,70,NBN Co
+Exetel,wifi,25,remote,60,NBN Co
+Exetel,wifi,12,remote,50,NBN Co
+Bendigo Telco,mobile,120,remote,50,NBN Co
+Bendigo Telco,mobile,62,remote,35,NBN Co
+Bendigo Telco,mobile,20,remote,20,NBN Co
+Bendigo Telco,wifi,999,urban,100,NBN Co
+Bendigo Telco,wifi,250,urban,90,NBN Co
+Bendigo Telco,wifi,100,urban,80,NBN Co
+Bendigo Telco,wifi,50,urban,70,NBN Co
+Bendigo Telco,wifi,25,urban,60,NBN Co
+Bendigo Telco,wifi,12,urban,50,NBN Co
+Bendigo Telco,wifi,100,regional,80,NBN Co
+Bendigo Telco,wifi,50,regional,70,NBN Co
+Bendigo Telco,wifi,25,regional,60,NBN Co
+Bendigo Telco,wifi,12,regional,50,NBN Co
+Bendigo Telco,wifi,50,remote,70,NBN Co
+Bendigo Telco,wifi,25,remote,60,NBN Co
+Bendigo Telco,wifi,12,remote,50,NBN Co
+Superloop,mobile,120,remote,50,NBN Co
+Superloop,mobile,62,remote,35,NBN Co
+Superloop,mobile,20,remote,20,NBN Co
+Superloop,wifi,999,urban,100,NBN Co
+Superloop,wifi,250,urban,90,NBN Co
+Superloop,wifi,100,urban,80,NBN Co
+Superloop,wifi,50,urban,70,NBN Co
+Superloop,wifi,25,urban,60,NBN Co
+Superloop,wifi,12,urban,50,NBN Co
+Superloop,wifi,100,regional,80,NBN Co
+Superloop,wifi,50,regional,70,NBN Co
+Superloop,wifi,25,regional,60,NBN Co
+Superloop,wifi,12,regional,50,NBN Co
+Superloop,wifi,50,remote,70,NBN Co
+Superloop,wifi,25,remote,60,NBN Co
+Superloop,wifi,12,remote,50,NBN Co
+ipstar,mobile,120,remote,50,NBN Co
+ipstar,mobile,62,remote,35,NBN Co
+ipstar,mobile,20,remote,20,NBN Co
+ipstar,wifi,999,urban,100,NBN Co
+ipstar,wifi,250,urban,90,NBN Co
+ipstar,wifi,100,urban,80,NBN Co
+ipstar,wifi,50,urban,70,NBN Co
+ipstar,wifi,25,urban,60,NBN Co
+ipstar,wifi,12,urban,50,NBN Co
+ipstar,wifi,100,regional,80,NBN Co
+ipstar,wifi,50,regional,70,NBN Co
+ipstar,wifi,25,regional,60,NBN Co
+ipstar,wifi,12,regional,50,NBN Co
+ipstar,wifi,50,remote,70,NBN Co
+ipstar,wifi,25,remote,60,NBN Co
+ipstar,wifi,12,remote,50,NBN Co
+Moose Mobile,mobile,120,remote,50,NBN Co
+Moose Mobile,mobile,62,remote,35,NBN Co
+Moose Mobile,mobile,20,remote,20,NBN Co
+Moose Mobile,wifi,999,urban,100,NBN Co
+Moose Mobile,wifi,250,urban,90,NBN Co
+Moose Mobile,wifi,100,urban,80,NBN Co
+Moose Mobile,wifi,50,urban,70,NBN Co
+Moose Mobile,wifi,25,urban,60,NBN Co
+Moose Mobile,wifi,12,urban,50,NBN Co
+Moose Mobile,wifi,100,regional,80,NBN Co
+Moose Mobile,wifi,50,regional,70,NBN Co
+Moose Mobile,wifi,25,regional,60,NBN Co
+Moose Mobile,wifi,12,regional,50,NBN Co
+Moose Mobile,wifi,50,remote,70,NBN Co
+Moose Mobile,wifi,25,remote,60,NBN Co
+Moose Mobile,wifi,12,remote,50,NBN Co
