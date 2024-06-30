@@ -1,6 +1,7 @@
 # Australian Digital Divide Model GitHub Repository Outline
-##### Submitted in complement to Internet Affordability and Australia's Digital Divide: Insights from an Economic Agent-based Model
-##### Author: Ellen Costaras
+Submitted in complement to Internet Affordability and Australia's Digital Divide: Insights from an Economic Agent-based Model
+Author: Ellen Costaras
+
 
 #### Main data structures, algorithms and simulation code: 
 ADD model.py
